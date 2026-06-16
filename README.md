@@ -17,9 +17,5 @@ The repository is organized into folders based on course codes and project names
  ┃  ┣ 📂 football-news-mobile
  ┃  ┣ 📂 majulah-shop
  ┃  ┗ 📂 majulah-shop-mobile
- ┣ 📂 CSGE603130                # Introduction to AI & Data Science
- ┃  ┣ 📓 TP1_A3_K-A2C.ipynb     # Classification 
- ┃  ┣ 📓 TP2_A3_K-A2C.ipynb     # Regression
- ┃  ┗ 📓 TP3_A3_K-A2C.ipynb     # Clustering
  ┗ 📜 README.md
 ```
